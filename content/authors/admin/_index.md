@@ -115,5 +115,13 @@ social:
 highlight_name: true
 ---
 
-Hi, I'm a PhD student in Information Technology and Eletrical Engineering (ITEE) at Department of Information Technology and Electrical Engineering (DIETI), University of Naples Federico II. My research interests cover cybersecurity for fog and edge cloud, focusing on fuzzing, static analysis, secure debloating, and the secure configuration of virtualization and orchestration technologies. I am a member of DESSERT (DEpendable and Secure Software Engineering and Real-Time Systems) research group.
+Hi, I'm a PhD student in **Information Technology and Eletrical Engineering** ([ITEE](https://itee.dieti.unina.it/)) at **Department of Information Technology and Electrical Engineering** ([DIETI](https://www.dieti.unina.it/index.php/en/)), University of Naples Federico II. My research interests cover cybersecurity for fog and edge cloud, focusing on fuzzing, static analysis, secure debloating, and the secure configuration of virtualization and orchestration technologies. I am a member of **DEpendable and Secure Software Engineering and Real-Time Systems** ([DESSERT](https://dessert.unina.it/)) research group.
+
+
+
+
+
+
+
+
 {style="text-align: justify;"}
