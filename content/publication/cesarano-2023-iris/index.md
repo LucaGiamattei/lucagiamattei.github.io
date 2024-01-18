@@ -26,6 +26,8 @@ publishDate: '2017-01-01T00:00:00Z'
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
 publication_types: ['paper-conference']
+#["article-journal"]
+#["article"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *The 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks*
