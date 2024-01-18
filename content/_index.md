@@ -142,11 +142,9 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Contact me
+      text: Contact me
       email: carmine.cesarano2@unina.it
-      text: |-
-        Where to find me
+      text: Where to find me
       address:
         street: via Claudio, 21
         city: Napoli
