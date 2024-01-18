@@ -33,6 +33,7 @@ interests:
   - Security Certification
   - Dynamic and Static Analysis 
   - Virtualization Technolgies
+  - Orchestration Technologies
 
 # Education to show in About widget
 education:
