@@ -152,6 +152,7 @@ sections:
         postcode: '80125'
         country: Italy
         country_code: IT
+      directions: DESSERT lab, Department of Information Technology and Electrical Engineering @ Building 3/A, 4th floor, Room 4.07
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: '40.828313735365256'
