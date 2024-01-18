@@ -142,6 +142,8 @@ sections:
     content:
       title: Contact
       subtitle:
+      text: |-
+        Where to find me
       # Contact (add or remove contact options as necessary)
       email: carmine.cesarano2@unina.it
       address:
