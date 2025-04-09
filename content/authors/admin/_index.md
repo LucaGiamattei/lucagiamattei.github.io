@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Carmine Cesarano
+title: Luca Giamattei
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Carmine
-last_name: Cesarano
+first_name: Luca
+last_name: Giamattei
 
 # Status emoji
 status:
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Student | Information Technologies and Electrical Engineering (ITEE)
+role: Postdoc | DESSERT | Reasoning-Based Software Testing
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,28 +25,24 @@ organizations:
     url: https://www.unina.it/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include fuzzing, secure debloating and secure configurations. 
+# bio: My research interests include software engineering, software testing, causal reasoning, and artificial intelligence. 
 
 # Interests to show in About widget
 interests:
-  - Security Testing
-  - Security Certification
-  - Dynamic and Static Analysis 
-  - Virtualization Technolgies
-  - Orchestration Technologies
+  - Software Engineering
+  - Software Testing
+  - Causal Reasoning
+  - Artificial Intelligence
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Information Technologies and Electrical Engineering
       institution: University of Naples Federico II
-      year: on going
-    - course: MEng in Computer Engineering
+      year: 2024
+    - course: MSc in Computer Engineering
       institution: University of Naples Federico II
-      year: 2022
-    - course: BSc in Computer Engineering
-      institution: University of Naples Federico II
-      year: 2019
+      year: 2021
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -103,23 +99,20 @@ social:
     link: '/#contact'
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=carminecesarano
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/carminecesarano
+    link: https://scholar.google.com/citations?user=jT_i6fsAAAAJ
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/carminecesarano
   - icon: linkedin
     icon_pack: fab
-    link: https://it.linkedin.com/in/carminecesarano
+    link: https://www.linkedin.com/in/luca-giamattei-63a92511a/
 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Hi, I'm a PhD student in **Information Technology and Eletrical Engineering** ([ITEE](https://itee.dieti.unina.it/)) at **Department of Information Technology and Electrical Engineering** ([DIETI](https://www.dieti.unina.it/index.php/en/)), University of Naples Federico II. My research interests cover cybersecurity for fog and edge cloud, focusing on fuzzing, static analysis, secure debloating, and the secure configuration of virtualization and orchestration technologies. I am a member of **DEpendable and Secure Software Engineering and Real-Time Systems** ([DESSERT](https://dessert.unina.it/)) research group.
-
-
-
+Hi, I'm a Postdoctoral Researcher at the University of Naples Federico II. In 2024 I completed the PhD in **Information Technology and Eletrical Engineering** ([ITEE](https://itee.dieti.unina.it/)) at the **Department of Information Technology and Electrical Engineering** ([DIETI](https://www.dieti.unina.it/index.php/en/)), University of Naples Federico II. My research focuses on Causal-Reasoning-Based testing of DNN-enabled software systems and microservice architectures. I am a member of the **DEpendable and Secure Software Engineering and Real-Time Systems** ([DESSERT](https://dessert.unina.it/)) research group. I'm also the Co-Founder of **ai.res** ([ai.res](https://ai-res.it/)) (spin-off of the University of Naples Federico II), where we develop AI risk management and governance solutions. 
 
 
 
