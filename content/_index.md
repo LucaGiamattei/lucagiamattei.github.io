@@ -136,7 +136,7 @@ sections:
     content:
       title: Contact
       subtitle:
-      email: carmine.cesarano2@unina.it
+      email: luca.giamattei@unina.it
       address:
         street: via Claudio, 21
         city: Napoli
